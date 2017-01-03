@@ -248,7 +248,7 @@
     "difficulty": "Medium",
     "length": "3 days",
     "price": "600",
-    "region": "Varies",
+    "region": 0,
     "keywords": "Eco Tour, Camping, Animals, Boating, Hiking"
   },
   {
@@ -260,7 +260,7 @@
     "difficulty": "Medium",
     "length": "2 days",
     "price": "500",
-    "region": "Varies",
+    "region": 0,
     "keywords": "Eco Tour, California History, Animals, Museum"
   },
   {
@@ -272,7 +272,7 @@
     "difficulty": "Easy",
     "length": "4 days",
     "price": "1500",
-    "region": "Varies",
+    "region": 0,
     "keywords": "Eco Tour, California History, Animals, Boating, Hiking"
   },
   {
